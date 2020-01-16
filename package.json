@@ -1,23 +1,23 @@
 {
-  "name": "command-line-tic-tac-toe",
+  "name": "tic-tac-toe",
   "version": "1.0.0",
   "description": "A fun CLI game",
-  "main": "main.js",
+  "main": "tictac.js",
   "dependencies": {
     "prompt-sync": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m2mathew/command-line-tic-tac-toe.git"
+    "url": "git+https://github.com/derrickkarake/tictactoe.js.git"
   },
-  "author": "Mike Mathew",
+  "author": "Derrick karake",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/m2mathew/command-line-tic-tac-toe/issues"
+    "url": "https://github.com/derrickkarake/tictactoe.js"
   },
-  "homepage": "https://github.com/m2mathew/command-line-tic-tac-toe#readme"
+  "homepage": "https://github.com/derrickkarake/tictactoe.js/blob/master/README.md"
 }
